@@ -8,9 +8,7 @@ The project aims to recreate the 2048 game using Assembly language. The game inv
 
 ## Files
 
-- **code.asm**: Assembly source code file containing the implementation of the game.
-- **input_macros.asm**: Assembly file with macros for handling user input.
-- **display_macros.asm**: Assembly file with macros for displaying the game board.
+- **2048 Source code.asm**: Assembly source code file containing the implementation of the game.
 - **README.md**: This file providing information about the project.
 
 ## How to Run
